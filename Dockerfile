@@ -14,4 +14,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 RUN python -m playwright install --with-deps
 
-CMD ["windsurf", "run", "server.py"]
+CMD ["python", "server.py"]
