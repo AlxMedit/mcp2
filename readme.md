@@ -61,8 +61,8 @@ Te devuelve toda la información que sabe del vuelo correspondiente.
 1. Clona este repositorio a tu máquina local:
 
 ```bash
-git clone https://github.com/usuario/mcp-aviones.git
-cd mcp-aviones
+git clone https://github.com/AlxMedit/mcp2.git
+cd mcp2
 ```
 
 2. Crea y accede a una nueva rama para realizar tus modificaciones:
